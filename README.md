@@ -1,4 +1,4 @@
-<h1>Hi, I'm Marbien! <br/><a href="https://github.com/marbles4lifw">Programmer</a>, <a href="https://www.linkedin.com/in/marbien-jimeno-488933123/">Cybersecurity Professional</a></h1>
+<h1>Hi, I'm Marbien! <a href="https://www.linkedin.com/in/marbien-jimeno-488933123/">IT/Cybersecurity Professional</a>, <br/><a href="https://github.com/marbles4lifw">Programmer</a>
 
 <h2>👨‍💻 IT/Cybersecurity Projects:</h2>
 
