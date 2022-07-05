@@ -1,4 +1,4 @@
-<h1>Hi, I'm Marbien! :relieved: <br/>IT/Cybersecurity Professional & Programmer</h1><br/>
+<h1>Hi, I'm Marbien! :grin: <br/>IT/Cybersecurity Professional & Programmer</h1><br/>
 
 <h2>:technologist: IT/Cybersecurity Projects:</h2>
 <ul style="list-style-type:circle">
