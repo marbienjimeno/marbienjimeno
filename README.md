@@ -1,20 +1,14 @@
-<h1>Hi, I'm Marbien! <a href="https://www.linkedin.com/in/marbien-jimeno-488933123/">IT/Cybersecurity Professional</a>, <br/><a href="https://github.com/marbles4lifw">Programmer</a>
+<h1>Hi, I'm Marbien! :relieved: <br/>IT/Cybersecurity Professional & Programmer</h1><br/>
 
-<h2>👨‍💻 IT/Cybersecurity Projects:</h2>
-
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-
-- <b>PowerShell</b>
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-
-<h2>👨‍💻 Software Development:</h2>
+<h2>:technologist: IT/Cybersecurity Projects:</h2>
+<ul style="list-style-type:circle">
+  <li><strong>Active Directory</strong></li>
+  <ul style="list-style-type:disc">
+    <li><a href="">Active Directory Homelab: Windows Server 2019 with Windows 10 Clients on VirtualBox & Powershell Automation</a>
+    <li><a href="">Active Directory Powershell Scripts</a></li>
+  </ul>
+</ul><br/>
 
 <h2> 🤳 Connect with me:</h2>
+<a href="https://www.linkedin.com/in/marbien-jimeno-488933123/"><img align="left" alt="Marbien Jimeno LinkedIn link" width="33px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/></a>
 
-[<img align="left" alt="MarbienJimeno | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[linkedin]: https://www.linkedin.com/in/marbien-jimeno-488933123/
