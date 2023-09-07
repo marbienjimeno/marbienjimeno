@@ -5,7 +5,7 @@
   <ul style="list-style-type:disc">
     <li><a href="">Azure Crash Course</a>
   </ul>
-</ul><br/>
+</ul>
 
 <ul style="list-style-type:circle">
   <ul style="list-style-type:disc">
