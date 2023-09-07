@@ -2,10 +2,12 @@
 
 <h2>:technologist: IT/InfoSec Projects:</h2>
 <ul style="list-style-type:circle">
-  <li><strong>Azure Crash Course</strong></li>
   <ul style="list-style-type:disc">
-    <li><a href="">Creating a Subscription and First Resource</a>
+    <li><a href="">Azure Crash Course</a>
   </ul>
+</ul><br/>
+
+<ul style="list-style-type:circle">
   <ul style="list-style-type:disc">
     <li><a href="">Active Directory Homelab: Windows Server 2019 with Windows 10 Clients on VirtualBox & Powershell Automation</a>
     <li><a href="">Active Directory Powershell Scripts</a></li>
